@@ -1,0 +1,6 @@
+framework module YHHeFeiSDK {
+  umbrella header "YHHeFeiSDK.h"
+
+  export *
+  module * { export * }
+}
