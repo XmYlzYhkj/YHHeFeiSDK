@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "YHHeFeiSDK"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "YHHeFeiSDK 只提供给合肥通使用"
 
   s.description  = "YHHeFeiSDK是整合服务端、H5、APP原生的库，只有支付宝支付功能"
